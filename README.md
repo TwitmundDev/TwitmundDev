@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Twitmund</h1>
 <h3 align="center">French student</h3>
 <!--![Visitor Count](https://profile-counter.glitch.me/TwitmundDev/count.svg)-->
+<p align="center">Profile views </p>
 <p align="left"> <img src="https://profile-counter.glitch.me/TwitmundDev/count.svg" alt="twitmunddev" /> </p>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=twitmunddev&label=Profile%20views&color=0e75b6&style=flat" alt="twitmunddev" /> </p>-->
 
