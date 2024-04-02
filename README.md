@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Twitmund</h1>
 <h3 align="center">French student</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=twitmunddev&label=Profile%20views&color=0e75b6&style=flat" alt="twitmunddev" /> </p>
+<!--![Visitor Count](https://profile-counter.glitch.me/TwitmundDev/count.svg)-->
+<!--<p align="left"> <img src="https://profile-counter.glitch.me/TwitmundDev/count.svg" alt="twitmunddev" /> </p>-->
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=twitmunddev&label=Profile%20views&color=0e75b6&style=flat" alt="twitmunddev" /> </p>-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=twitmunddev" alt="twitmunddev" /></a> </p>
 
@@ -25,6 +26,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwitmundDev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Visitor
-![Visitor Count](https://profile-counter.glitch.me/TwitmundDev/count.svg)
 
