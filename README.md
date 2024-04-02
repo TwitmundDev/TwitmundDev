@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=twitmunddev" alt="twitmunddev" /></a> </p>
 
-- 🔭 I’m currently working on [Ezariel](ezariel.eu)
+- 🔭 I’m currently working on [Ezariel](https://ezariel.eu)
 
-- 📫 How to reach me **twitmund@gmail.com**
+- 📫 How to reach me **twitmund@gmail.com** or on discord **@Twitmund**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
