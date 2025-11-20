@@ -83,8 +83,25 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/TwitmundDev/TwitmundDev/output/snake.svg" alt="Snake animation" />
+<div>
+  <h3 align="left">Some of my Work</h3>
+  <ul>
+    <li>
+      <a href="https://modrinth.com/plugin/h2oh">
+        <strong>H2Oh!</strong> — A Minecraft plugin that introduces a dynamic thirst mechanic to enhance gameplay realism.
+      </a>
+    </li>
+    <li>
+      <a href="https://modrinth.com/plugin/modsuite">
+        <strong>ModSuite</strong> — A comprehensive moderation toolkit for Paper/Spigot servers, featuring multilingual support, Discord webhook alerts, database integration, and fully customizable permissions.
+      </a>
+    </li>
+    <li>
+      <a href="https://modrinth.com/plugin/mc-anti-vpn">
+        <strong>Anti-VPN</strong> — A plugin designed to protect your server by detecting and blocking players using VPNs or proxies.
+      </a>
+    </li>
+  </ul>
+</div>
 
 ###
