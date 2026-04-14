@@ -1,100 +1,116 @@
-<h2 align="left">Hi 👋, I'm Twitmund — a French software student.</h2>
+<h2 align="left">Hi 👋, I'm Ellwane — Backend Developer (Java / Go)</h2>
 
-###
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/54693701?v=4" />
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/54693701?v=4"  />
+---
 
-###
+💻 Backend-focused developer with 5+ years of experience (Java, APIs, real-time systems)  
+🚀 Building scalable systems (scraping, queues, distributed workers)  
+🎯 Looking for a developer apprenticeship (alternance)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-</div>
+---
 
-###
+## ⚡ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+
+<!-- LANGAGES -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+
+<!-- FRAMEWORKS -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+
+<!-- DATA -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30"/>
+
+<!-- INFRA -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/>
+
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TwitmundDev.TwitmundDev&"  />
-</div>
+## 🚀 Featured Projects
 
-###
+### 🔹 Real-time scraping platform (WIP)
+- Backend in Go + Vue.js frontend
+- Real-time data processing system
+- Rotating proxy management
+- Distributed architecture with RabbitMQ workers
+- Designed for scalability
+
+---
+
+### 🔹 Backend development (Java)
+- Development with Spring Boot
+- API design and real-time data handling
+- Event-driven architecture
+- Performance optimization & scalability
+- Production-ready systems
+
+---
+## 📌 Other Work
+
+<details>
+<summary>Click to expand</summary>
+
+### 🔹 H2Oh!
+A real-time player state management system
+
+- Event-driven backend system
+- Real-time data handling (player state)
+- Configurable logic & UI system
+
+📊 246+ downloads  
+🔗 https://modrinth.com/plugin/h2oh  
+
+---
+
+### 🔹 DamagePlus
+A configurable backend system for player damage processing
+
+- Custom logic processing (damage system)
+- Multi-language support
+- Modular & configurable architecture
+
+📊 30+ downloads  
+🔗 https://modrinth.com/plugin/damageplus  
+
+---
+
+### 🔹 MC Anti VPN
+A network security system with external API integration
+
+- Integration with IP detection APIs
+- Request optimization & rate limiting
+- Protection system against proxy/VPN usage
+
+📊 42+ downloads  
+🔗 https://modrinth.com/plugin/mc-anti-vpn  
+
+</details>
+
+---
+
+## 📫 Contact
 
 <div align="left">
-  <a href="@twitmund" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="mailto:contact@twitmund.fr">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:contact@twitmund.fr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ellwane-romdhame/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/ellwane-romdhame/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
-
-###
-
-<div>
-  <h3 align="left">Some of my Work</h3>
-  <ul>
-    <li>
-      <a href="https://modrinth.com/plugin/h2oh">
-        <strong>H2Oh!</strong> — A Minecraft plugin that introduces a dynamic thirst mechanic to enhance gameplay realism.
-      </a>
-    </li>
-    <li>
-      <a href="https://modrinth.com/plugin/modsuite">
-        <strong>ModSuite</strong> — A comprehensive moderation toolkit for Paper/Spigot servers, featuring multilingual support, Discord webhook alerts, database integration, and fully customizable permissions.
-      </a>
-    </li>
-    <li>
-      <a href="https://modrinth.com/plugin/mc-anti-vpn">
-        <strong>Anti-VPN</strong> — A plugin designed to protect your server by detecting and blocking players using VPNs or proxies.
-      </a>
-    </li>
-  </ul>
-</div>
-
-###
